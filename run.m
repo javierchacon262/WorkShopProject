@@ -64,3 +64,4 @@ scatter(xr2, vecGen(end, :))
 title('Mejor Resultado por Generacion')
 xlabel('Generaciones')
 ylabel('Mejor MakeSpan')
+%Nicolas es marico
